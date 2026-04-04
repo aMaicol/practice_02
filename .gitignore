@@ -1,0 +1,22 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Datos y archivos pesados
+*.csv
+*.json
+*.sqlite
+
+# Sistema y otros
+.DS_Store
+*.log
