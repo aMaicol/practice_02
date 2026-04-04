@@ -32,7 +32,11 @@
 
 ## :open_file_folder: Estructura del Proyecto
 
+```text
 .
-├── notebooks/          # Archivos .ipynb (Jupyter Notebook)
-├── src/                # Código fuente
-└── requirements.txt    # Dependencias
+├── notebooks/                # Archivos .ipynb (Jupyter Notebook)
+│   └── notebooks_test.ipynb  # Notebook para testear los módulos
+├── src/                      # Código fuente
+├── .gitignore                # Archivos excluidos
+├── README.md                 # Documentación
+└── requirements.txt          # Dependencias del proyecto
