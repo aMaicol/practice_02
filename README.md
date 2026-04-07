@@ -34,8 +34,8 @@
 
 ```text
 .
-├── notebooks/                # Archivos .ipynb (Jupyter Notebook)
-│   └── notebooks_test.ipynb  # Notebook para testear los módulos
+├── notebooks/                # Archivos .ipynb (Jupyter)
+│   └── notebooks_test.ipynb  # Notebook para testear
 ├── src/                      # Código fuente
 ├── .gitignore                # Archivos excluidos
 ├── README.md                 # Documentación
